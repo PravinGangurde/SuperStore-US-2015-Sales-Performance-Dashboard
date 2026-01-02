@@ -111,7 +111,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👤 Author
-**YPravi Gangurde**  
+**Pravi Gangurde**  
 📧 pravingangurde3066@gmail.com  
 [🔗 Portfolio / LinkedIn
 ](https://www.linkedin.com/in/pravin-gangurde-834947276/)
